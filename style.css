@@ -8,7 +8,7 @@ body{
     padding: 0 0 10px 0;
 }
 .header{
-    background-image: url(/img/logo.jpg);
+    background-image: url(img/logo.jpg);
     width: 100%;
     padding: 100px 0;
     background-size: cover; 
@@ -55,7 +55,7 @@ body{
     
 }
 .logo{
-    background-image: url(/img/branch.png);
+    background-image: url(img/branch.png);
     width: 40px;
     height: 40px;
     background-size: contain;
@@ -86,20 +86,20 @@ body{
     padding: 30px 0;
 }
 .calendar{
-    background-image:url(/img/calendar.png);
+    background-image:url(img/calendar.png);
     background-size: cover;
     width: 15px;
     height: 15px;
     
 }
 .lokacija{
-    background-image:url(/img/pin.png);
+    background-image:url(img/pin.png);
     background-size: cover;
     width: 15px;
     height: 15px;
 }
 .strelica{
-    background-image:url(/img/location-arrow.png);
+    background-image:url(img/location-arrow.png);
     background-size: cover;
     width: 15px;
     height: 15px;
